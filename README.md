@@ -1,7 +1,5 @@
-# monsters-rolodex
-React project for a basic search and filter application
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Monsters Rolodex
+React.js project that provides a basic search and filter application that utilizes proper component breakdowns and state management.
 
 ## Available Scripts
 
