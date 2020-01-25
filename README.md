@@ -5,6 +5,10 @@ React.js project that provides a basic search and filter application that utiliz
 
 In the project directory, you can run:
 
+### `yarn install`
+
+then run the project:
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
